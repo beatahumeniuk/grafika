@@ -1,0 +1,67 @@
+{
+  "prostopadlosciany": [
+    {
+      "x": -5.0,
+      "y": -0.1,
+      "z": -5.0,
+      "wysokosc": 0.1,
+      "szerokosc": 10.0,
+      "dlugosc": 10.0},
+    {
+      "x": -5.0,
+      "y": 0.0,
+      "z": -5.0,
+      "wysokosc": 0.0,
+      "szerokosc": 10.0,
+      "dlugosc": 10.0
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": -4.0,
+      "wysokosc": 2.5,
+      "szerokosc": 1.5,
+      "dlugosc": 2.5
+    },
+    {
+      "x": -4.0,
+      "y": 0.0,
+      "z": 1.0,
+      "wysokosc": 1.0,
+      "szerokosc": 1.5,
+      "dlugosc": 3.5
+    },
+    {
+      "x": 0,
+      "y": 0.0,
+      "z": -4.0,
+      "wysokosc": 0.5,
+      "szerokosc": 0.5,
+      "dlugosc": 1.0
+    },
+    {
+      "x": 2.5,
+      "y": 0.0,
+      "z": -2.0,
+      "wysokosc": 1.0,
+      "szerokosc": 2.0,
+      "dlugosc": 1.0
+    },
+    {
+      "x": 0,
+      "y": 0.0,
+      "z": 1.0,
+      "wysokosc": 3.0,
+      "szerokosc": 0.5,
+      "dlugosc": 0.5
+    },
+    {
+      "x": 3.0,
+      "y": 0.0,
+      "z": 1.5,
+      "wysokosc": 2.0,
+      "szerokosc": 1.5,
+      "dlugosc": 2.5
+    }
+  ]
+}
